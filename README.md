@@ -31,4 +31,4 @@ Here are some ideas to get you started: -->
 
 <p><img align="" style="" src="https://github-readme-stats.vercel.app/api?username=7157seejan&show_icons=true&locale=en&layout=compact" alt="7157seejan" /></p>
 
-<p><img align="" style="" src="https://github-readme-streak-stats.herokuapp.com/?user=7157seejan&" alt="7157seejan" /></p>
+<p><img align="" style="" src="https://github-readme-streak-stats.herokuapp.com/?user=7157seejan" alt="7157seejan" /></p>
