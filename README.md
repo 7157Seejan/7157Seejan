@@ -29,6 +29,6 @@ Here are some ideas to get you started: -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7157seejan&show_icons=true&locale=en" alt="7157seejan"/></p><br>
 
-<p><img align="left" style="width=50%;" src="https://github-readme-stats.vercel.app/api?username=7157seejan&show_icons=true&locale=en&layout=compact" alt="7157seejan" /></p>
+<p><img align="left" style="" src="https://github-readme-stats.vercel.app/api?username=7157seejan&show_icons=true&locale=en&layout=compact" alt="7157seejan" /></p>
 
-<p><img align="" style="width=50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=7157seejan&" alt="7157seejan" /></p>
+<p><img align="" style="" src="https://github-readme-streak-stats.herokuapp.com/?user=7157seejan&" alt="7157seejan" /></p>
