@@ -32,5 +32,3 @@ Here are some ideas to get you started: -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7157seejan&show_icons=true&locale=en" alt="7157seejan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7157seejan&" alt="7157seejan" /></p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7157Seejan&theme=radical)
