@@ -12,3 +12,5 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: https://www.linkedin.com/in/seejan-sunar-710ab4185/
 - 😄 Pronouns: He
 - ⚡ Fun fact: 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7157Seejan&theme=radical)
