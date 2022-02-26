@@ -39,9 +39,9 @@
 
   <br/>
   <p align="center">
-    <a href="https://github.com/seejansunar/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=7157Seejan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+    <a href="https://github.com/seejansunar/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=seejansunar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
     <p align="center">
-  <a href="https://github.com/seejansunar/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7157Seejan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+  <a href="https://github.com/seejansunar/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seejansunar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -59,6 +59,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=7157Seejan">
+    <img src="https://komarev.com/ghpvc/?username=seejansunar">
 </a>
-<a href="https://github.com/7157Seejan?tab=followers"><img src="https://img.shields.io/github/followers/seejansunar?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/seejansunar?tab=followers"><img src="https://img.shields.io/github/followers/seejansunar?label=Followers&style=social" alt="GitHub Badge"></a>
