@@ -4,13 +4,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Automatic License Number Plate Recognition Capstone Project]()**
-
-- 🌱 I’m currently learning **OpenCv**
+- 🌱 I’m currently learning **Data Science | Data Engineering**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[Github Repos](https://github.com/7157Seejan)**
+- 👨‍💻 All of my projects are available at **[Github Repos](https://github.com/seejansunar)**
 
 - 📫 How to reach me **czansunar0098@gmail.com**
 
