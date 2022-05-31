@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Science | Web Development**
+- 🌱 I’m currently learning **Data Science | Machine Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
