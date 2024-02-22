@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Seejan Sunar,</h1>
 <h3 align="center">Machine Learning | Data Science | Web Apps</h3>
-<h4 align="center">Building: <a href="https://restropro.spherelabs.co/">Restropro</a></h4>
+<h4 align="center">Building: <a href="https://restropro.spherelabs.co/">Restropro</a> | <a href="https://pharmate.spherelabs.co/">pharMate</a> </h4>
 
 
 ## 🙋‍♂️ About Me
